@@ -49,8 +49,6 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-F80000?style=flat)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Frontend (AI-assisted):**
 

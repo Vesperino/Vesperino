@@ -1,25 +1,27 @@
 # Cześć, jestem Arek! 👋
 
-**.NET / Full-stack Developer** z Poznania z 4+ latami doświadczenia w tworzeniu systemów dla infrastruktury lotniskowej.
+**.NET Developer** z Poznania z 4+ latami doświadczenia w tworzeniu systemów dla infrastruktury lotniskowej.
 
 ## 🚀 Czym się zajmuję
 
 - 🛫 Buduję systemy dla **lotnisk międzynarodowych** (CCTV, śledzenie bagażu, monitoring infrastruktury)
-- 💻 Specjalizuję się w **.NET 6-9** + **Vue.js 3**
-- 🤖 Intensywnie rozwijam się w **AI-assisted development** (Claude Code, Cursor, MCP)
+- 💻 Specjalizuję się w **backendzie .NET 6-9**
+- 🤖 Tworzę aplikacje full-stack wykorzystując **AI-assisted development** (Claude Code, Cursor)
 - 🏗️ Pasjonuję się **czystą architekturą** (DDD, CQRS, Event Sourcing)
 
 ## 🏆 Wyróżnione projekty
 
-### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground) ⭐
+### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground) ⭐ `🚧 Work in Progress`
 E-commerce platform demonstrująca enterprise architecture patterns
-- **Stack:** .NET 9, Vue 3, PostgreSQL, MongoDB, Redis, RabbitMQ
-- **Wzorce:** Modular Monolith + Vertical Slice + DDD + CQRS + Event Sourcing
+- **Backend:** .NET 9, MediatR, MassTransit, Event Sourcing
+- **Wzorce:** Modular Monolith + Vertical Slice + DDD + CQRS
+- **Bazy:** PostgreSQL, MongoDB, Redis, RabbitMQ
 - 🌐 [Live Demo](https://architecture-playground.vercel.app)
 
 ### [PortalForge](https://github.com/Vesperino/PortalForge)
 Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
-- **Stack:** .NET 8, Nuxt 3, PostgreSQL, Supabase
+- **Backend:** .NET 8, Clean Architecture, Background Services
+- **Frontend:** Nuxt 3 (AI-assisted)
 - System urlopów, wnioski z workflow, struktura organizacyjna
 - 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
 
@@ -32,15 +34,12 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 
 ## 🛠️ Tech Stack
 
-**Backend:**
+**Backend (główna specjalizacja):**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Frontend:**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat)
 
 **Databases:**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -48,13 +47,19 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**DevOps & Tools:**
+**Frontend (AI-assisted):**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**AI Tools:**
+**AI-assisted Development:**
 ![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ## 📜 Certyfikaty

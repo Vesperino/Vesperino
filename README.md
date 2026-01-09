@@ -21,7 +21,7 @@ E-commerce platform demonstrująca enterprise architecture patterns
 Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
 - **Stack:** .NET 8, Nuxt 3, PostgreSQL, Supabase
 - System urlopów, wnioski z workflow, struktura organizacyjna
-- 🌐 [Live Demo](https://krablab.pl/portalforge/fe/dashboard)
+- 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
 Zarządzanie przepisami z AI (OpenAI GPT + Google Gemini)

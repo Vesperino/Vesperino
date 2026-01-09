@@ -8,6 +8,7 @@
 - 💻 Specjalizuję się w **backendzie .NET 6-9**
 - 🤖 Tworzę aplikacje full-stack wykorzystując **AI-assisted development** (Claude Code, Cursor)
 - 🏗️ Pasjonuję się **czystą architekturą** (DDD, CQRS, Event Sourcing)
+- 🔧 Nie boję się zadań **DevOps** (Ansible, Jenkins, GitHub Actions, Docker)
 
 ## 🏆 Wyróżnione projekty
 
@@ -27,7 +28,7 @@ Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
 Zarządzanie przepisami z AI (OpenAI GPT + Google Gemini)
-- Ekstrakcja z PDF, planowanie posiłków, listy zakupów
+- Ekstrakcja z PDF, planowanie posiłków, listy zakupów, export do Todoist
 
 ### [InterQuizAI](https://github.com/Vesperino/InterQuizAI)
 Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
@@ -42,8 +43,10 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat)
 
 **Databases:**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-F80000?style=flat)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -55,6 +58,8 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 **DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **AI-assisted Development:**
@@ -64,14 +69,19 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 
 ## 📜 Certyfikaty
 
-🏆 **10xDevs** (BRAVE Courses, 2025) - AI-assisted development | **Best Project**
+🏆 [**10xDevs**](https://credsverse.com/credentials/2871b2cc-00eb-4f9f-8a3b-72f79a4e7269) (BRAVE Courses, 2025) | **Best Project**
+- Budowa AI-first full-stack MVP, CI/CD z agentami AI, code review i refactoring z AI
+- Praca z legacy code, GitHub Actions + LLM, dockeryzacja aplikacji
 
-🎓 **AI_devs 3 Reloaded** (BRAVE Courses, 2025) - Budowa agentów AI, RAG, LLM
+🎓 [**AI_devs 3 Reloaded**](https://credsverse.com/credentials/6cc1300d-16b7-495c-94d3-ddf6e74718d4) (BRAVE Courses, 2025)
+- Budowa agentów AI, prompt engineering, przetwarzanie multimodalne (tekst/audio/obraz/video)
+- Systemy RAG, bazy wektorowe, integracja LLM z aplikacjami i usługami zewnętrznymi
 
 ## 🌍 Wdrożenia
 
-Moje systemy działają na lotniskach:
+Systemy przy których pracowałem działają między innymi na takich lotniskach jak:
 **Dhaka** 🇧🇩 | **Tallinn** 🇪🇪 | **Makassar** 🇮🇩 | **Warszawa** 🇵🇱 | **Wrocław** 🇵🇱 | **Poznań** 🇵🇱 | **Çukurova** 🇹🇷
+
 
 ## 📫 Kontakt
 

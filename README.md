@@ -82,7 +82,7 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 
 ## 🌍 Wdrożenia
 
-Moje systemy działają na lotniskach:
+Systemy przy których pracowałem działają na lotniskach:
 
 | Lotnisko | Kraj |
 |----------|------|
@@ -97,4 +97,4 @@ Moje systemy działają na lotniskach:
 ## 📫 Kontakt
 
 [![Email](https://img.shields.io/badge/Email-arkadiusz__bialecki%40wp.pl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz_bialecki@wp.pl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-b-1550a9189/)

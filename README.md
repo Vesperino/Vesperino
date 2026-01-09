@@ -36,6 +36,7 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ## 🛠️ Tech Stack
 
 **Backend (główna specjalizacja):**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -43,6 +44,7 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat)
 
 **Databases:**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-F80000?style=flat)
@@ -51,11 +53,13 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Frontend (AI-assisted):**
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **DevOps:**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -63,6 +67,7 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **AI-assisted Development:**
+
 ![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -79,21 +84,19 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 
 ## 🌍 Wdrożenia
 
-Systemy przy których pracowałem działają między innymi na takich lotniskach jak:
-**Dhaka** 🇧🇩 | **Tallinn** 🇪🇪 | **Makassar** 🇮🇩 | **Warszawa** 🇵🇱 | **Wrocław** 🇵🇱 | **Poznań** 🇵🇱 | **Çukurova** 🇹🇷
+Moje systemy działają na lotniskach:
 
+| Lotnisko | Kraj |
+|----------|------|
+| Dhaka | 🇧🇩 Bangladesz |
+| Tallinn | 🇪🇪 Estonia |
+| Makassar | 🇮🇩 Indonezja |
+| Warszawa | 🇵🇱 Polska |
+| Wrocław | 🇵🇱 Polska |
+| Poznań | 🇵🇱 Polska |
+| Çukurova | 🇹🇷 Turcja |
 
 ## 📫 Kontakt
 
 [![Email](https://img.shields.io/badge/Email-arkadiusz__bialecki%40wp.pl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz_bialecki@wp.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vesperino&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesperino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>

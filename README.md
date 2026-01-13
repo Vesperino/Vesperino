@@ -12,7 +12,14 @@
 
 ## 🏆 Wyróżnione projekty
 
-### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground) ⭐ `🚧 Work in Progress`
+### [PortalForge](https://github.com/Vesperino/PortalForge) ⭐
+Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
+- **Backend:** .NET 8, Clean Architecture, Background Services
+- **Frontend:** Nuxt 3 (AI-assisted)
+- System urlopów, wnioski z workflow, struktura organizacyjna
+- 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
+
+### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground)  `🚧 Work in Progress`
 E-commerce platform demonstrująca enterprise architecture patterns
 - **Backend:** .NET 9, MediatR, MassTransit, Event Sourcing
 - **Wzorce:** Modular Monolith + Vertical Slice + DDD + CQRS
@@ -25,13 +32,6 @@ Desktopowy edytor Markdown z wbudowaną obsługą diagramów Mermaid
 - **Funkcje:** WYSIWYG editing, diagramy flowchart/sequence/class, eksport PDF
 - **Testy:** 104 unit tests (Vitest), auto-release via GitHub Actions
 - 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
-
-### [PortalForge](https://github.com/Vesperino/PortalForge)
-Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
-- **Backend:** .NET 8, Clean Architecture, Background Services
-- **Frontend:** Nuxt 3 (AI-assisted)
-- System urlopów, wnioski z workflow, struktura organizacyjna
-- 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
 Zarządzanie przepisami z AI (OpenAI GPT + Google Gemini)

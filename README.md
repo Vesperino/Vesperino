@@ -19,6 +19,13 @@ E-commerce platform demonstrująca enterprise architecture patterns
 - **Bazy:** PostgreSQL, MongoDB, Redis, RabbitMQ
 - 🌐 [Live Demo](https://architecture-playground.vercel.app)
 
+### [MerMark Editor](https://github.com/Vesperino/MerMarkEditor)
+Desktopowy edytor Markdown z wbudowaną obsługą diagramów Mermaid
+- **Stack:** Vue 3, TypeScript, TipTap, Tauri 2.0
+- **Funkcje:** WYSIWYG editing, diagramy flowchart/sequence/class, eksport PDF
+- **Testy:** 104 unit tests (Vitest), auto-release via GitHub Actions
+- 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
+
 ### [PortalForge](https://github.com/Vesperino/PortalForge)
 Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
 - **Backend:** .NET 8, Clean Architecture, Background Services

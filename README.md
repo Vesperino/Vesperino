@@ -13,7 +13,7 @@
 ## 🏆 Wyróżnione projekty
 
 ### [PortalForge](https://github.com/Vesperino/PortalForge) ⭐
-Portal intranetowy dla organizacji 200+ pracowników (~50k LOC, 90% MVP)
+Portal intranetowy dla organizacji (~50k LOC, 90% MVP)
 - **Backend:** .NET 8, Clean Architecture, Background Services
 - **Frontend:** Nuxt 3 (AI-assisted)
 - System urlopów, wnioski z workflow, struktura organizacyjna

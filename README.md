@@ -1,47 +1,49 @@
-# Cześć, jestem Arek! 👋
+# 🇬🇧 English | [🇵🇱 Polski](README_PL.md)
 
-**.NET Developer** z Poznania z 4+ latami doświadczenia w tworzeniu systemów dla infrastruktury lotniskowej.
+# Hi, I'm Arek! 👋
 
-## 🚀 Czym się zajmuję
+**.NET Developer** from Poznań with 4+ years of experience building systems for airport infrastructure.
 
-- 🛫 Buduję systemy dla **lotnisk międzynarodowych** (CCTV, śledzenie bagażu, monitoring infrastruktury)
-- 💻 Specjalizuję się w **backendzie .NET 6-9**
-- 🤖 Tworzę aplikacje full-stack wykorzystując **AI-assisted development** (Claude Code, Cursor)
-- 🏗️ Pasjonuję się **czystą architekturą** (DDD, CQRS, Event Sourcing)
-- 🔧 Nie boję się zadań **DevOps** (Ansible, Jenkins, GitHub Actions, Docker)
+## 🚀 What I Do
 
-## 🏆 Wyróżnione projekty
+- 🛫 Building systems for **international airports** (CCTV, baggage tracking, infrastructure monitoring)
+- 💻 Specializing in **.NET 6-9 backend**
+- 🤖 Creating full-stack applications using **AI-assisted development** (Claude Code, Cursor)
+- 🏗️ Passionate about **clean architecture** (DDD, CQRS, Event Sourcing)
+- 🔧 Not afraid of **DevOps** tasks (Ansible, Jenkins, GitHub Actions, Docker)
+
+## 🏆 Featured Projects
 
 ### [PortalForge](https://github.com/Vesperino/PortalForge) ⭐
-Portal intranetowy dla organizacji (~50k LOC, 90% MVP)
+Intranet portal for organizations (~50k LOC, 90% MVP)
 - **Backend:** .NET 8, Clean Architecture, Background Services
 - **Frontend:** Nuxt 3 (AI-assisted)
-- System urlopów, wnioski z workflow, struktura organizacyjna
+- Leave management, workflow requests, organizational structure
 - 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
 
-### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground)  `🚧 Work in Progress`
-E-commerce platform demonstrująca enterprise architecture patterns
+### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground) `🚧 Work in Progress`
+E-commerce platform demonstrating enterprise architecture patterns
 - **Backend:** .NET 9, MediatR, MassTransit, Event Sourcing
-- **Wzorce:** Modular Monolith + Vertical Slice + DDD + CQRS
-- **Bazy:** PostgreSQL, MongoDB, Redis, RabbitMQ
+- **Patterns:** Modular Monolith + Vertical Slice + DDD + CQRS
+- **Databases:** PostgreSQL, MongoDB, Redis, RabbitMQ
 - 🌐 [Live Demo](https://architecture-playground.vercel.app)
 
 ### [MerMark Editor](https://github.com/Vesperino/MerMarkEditor)
-Desktopowy edytor Markdown z wbudowaną obsługą diagramów Mermaid
+Desktop Markdown editor with built-in Mermaid diagram support
 - **Stack:** Vue 3, TypeScript, TipTap, Tauri 2.0
-- **Funkcje:** WYSIWYG editing, diagramy flowchart/sequence/class, eksport PDF
+- **Features:** WYSIWYG editing, flowchart/sequence/class diagrams, PDF export
 - 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
-Zarządzanie przepisami z AI (OpenAI GPT + Google Gemini)
-- Ekstrakcja z PDF, planowanie posiłków, listy zakupów, export do Todoist
+Recipe management with AI (OpenAI GPT + Google Gemini)
+- PDF extraction, meal planning, shopping lists, Todoist export
 
 ### [InterQuizAI](https://github.com/Vesperino/InterQuizAI)
-Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
+Technical interview quizzes with web search verification
 
 ## 🛠️ Tech Stack
 
-**Backend (główna specjalizacja):**
+**Backend (main specialization):**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -76,31 +78,31 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-## 📜 Certyfikaty
+## 📜 Certifications
 
 🏆 [**10xDevs**](https://credsverse.com/credentials/2871b2cc-00eb-4f9f-8a3b-72f79a4e7269) (BRAVE Courses, 2025) | **Best Project**
-- Budowa AI-first full-stack MVP, CI/CD z agentami AI, code review i refactoring z AI
-- Praca z legacy code, GitHub Actions + LLM, dockeryzacja aplikacji
+- Building AI-first full-stack MVP, CI/CD with AI agents, code review and refactoring with AI
+- Working with legacy code, GitHub Actions + LLM, application dockerization
 
 🎓 [**AI_devs 3 Reloaded**](https://credsverse.com/credentials/6cc1300d-16b7-495c-94d3-ddf6e74718d4) (BRAVE Courses, 2025)
-- Budowa agentów AI, prompt engineering, przetwarzanie multimodalne (tekst/audio/obraz/video)
-- Systemy RAG, bazy wektorowe, integracja LLM z aplikacjami i usługami zewnętrznymi
+- Building AI agents, prompt engineering, multimodal processing (text/audio/image/video)
+- RAG systems, vector databases, LLM integration with applications and external services
 
-## 🌍 Wdrożenia
+## 🌍 Deployments
 
-Systemy przy których pracowałem działają na lotniskach:
+Systems I've worked on are running at airports:
 
-| Lotnisko | Kraj |
-|----------|------|
-| Dhaka | 🇧🇩 Bangladesz |
+| Airport | Country |
+|---------|---------|
+| Dhaka | 🇧🇩 Bangladesh |
 | Tallinn | 🇪🇪 Estonia |
-| Makassar | 🇮🇩 Indonezja |
-| Warszawa | 🇵🇱 Polska |
-| Wrocław | 🇵🇱 Polska |
-| Poznań | 🇵🇱 Polska |
-| Çukurova | 🇹🇷 Turcja |
+| Makassar | 🇮🇩 Indonesia |
+| Warsaw | 🇵🇱 Poland |
+| Wrocław | 🇵🇱 Poland |
+| Poznań | 🇵🇱 Poland |
+| Çukurova | 🇹🇷 Turkey |
 
-## 📫 Kontakt
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-arkadiusz__bialecki%40wp.pl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz_bialecki@wp.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-b-1550a9189/)

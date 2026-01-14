@@ -104,5 +104,5 @@ Systemy przy których pracowałem działają na lotniskach:
 
 ## 📫 Kontakt
 
-[![Email](https://img.shields.io/badge/Email-arkadiusz__bialecki%40wp.pl-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz_bialecki@wp.pl)
+[![Email](https://img.shields.io/badge/Email-arkadiusz.bialecki.it%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz.bialecki.it@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-b-1550a9189/)

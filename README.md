@@ -30,7 +30,6 @@ E-commerce platform demonstrująca enterprise architecture patterns
 Desktopowy edytor Markdown z wbudowaną obsługą diagramów Mermaid
 - **Stack:** Vue 3, TypeScript, TipTap, Tauri 2.0
 - **Funkcje:** WYSIWYG editing, diagramy flowchart/sequence/class, eksport PDF
-- **Testy:** 104 unit tests (Vitest), auto-release via GitHub Actions
 - 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)

@@ -14,6 +14,12 @@
 
 ## 🏆 Featured Projects
 
+### [MerMark Editor](https://github.com/Vesperino/MerMarkEditor) ⭐⭐
+Desktop Markdown editor with built-in Mermaid diagram support
+- **Stack:** Vue 3, TypeScript, TipTap, Tauri 2.0
+- **Features:** WYSIWYG editing, flowchart/sequence/class diagrams, PDF export
+- 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
+
 ### [PortalForge](https://github.com/Vesperino/PortalForge) ⭐
 Intranet portal for organizations (~50k LOC, 90% MVP)
 - **Backend:** .NET 8, Clean Architecture, Background Services
@@ -27,12 +33,6 @@ E-commerce platform demonstrating enterprise architecture patterns
 - **Patterns:** Modular Monolith + Vertical Slice + DDD + CQRS
 - **Databases:** PostgreSQL, MongoDB, Redis, RabbitMQ
 - 🌐 [Live Demo](https://architecture-playground.vercel.app)
-
-### [MerMark Editor](https://github.com/Vesperino/MerMarkEditor)
-Desktop Markdown editor with built-in Mermaid diagram support
-- **Stack:** Vue 3, TypeScript, TipTap, Tauri 2.0
-- **Features:** WYSIWYG editing, flowchart/sequence/class diagrams, PDF export
-- 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
 Recipe management with AI (OpenAI GPT + Google Gemini)

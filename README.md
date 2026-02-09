@@ -88,20 +88,6 @@ Technical interview quizzes with web search verification
 - Building AI agents, prompt engineering, multimodal processing (text/audio/image/video)
 - RAG systems, vector databases, LLM integration with applications and external services
 
-## 🌍 Deployments
-
-Systems I've worked on are running at airports:
-
-| Airport | Country |
-|---------|---------|
-| Dhaka | 🇧🇩 Bangladesh |
-| Tallinn | 🇪🇪 Estonia |
-| Makassar | 🇮🇩 Indonesia |
-| Warsaw | 🇵🇱 Poland |
-| Wrocław | 🇵🇱 Poland |
-| Poznań | 🇵🇱 Poland |
-| Çukurova | 🇹🇷 Turkey |
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-arkadiusz.bialecki.it%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz.bialecki.it@gmail.com)

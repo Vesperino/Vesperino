@@ -88,20 +88,6 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 - Budowa agentów AI, prompt engineering, przetwarzanie multimodalne (tekst/audio/obraz/video)
 - Systemy RAG, bazy wektorowe, integracja LLM z aplikacjami i usługami zewnętrznymi
 
-## 🌍 Wdrożenia
-
-Systemy przy których pracowałem działają na lotniskach:
-
-| Lotnisko | Kraj |
-|----------|------|
-| Dhaka | 🇧🇩 Bangladesz |
-| Tallinn | 🇪🇪 Estonia |
-| Makassar | 🇮🇩 Indonezja |
-| Warszawa | 🇵🇱 Polska |
-| Wrocław | 🇵🇱 Polska |
-| Poznań | 🇵🇱 Polska |
-| Çukurova | 🇹🇷 Turcja |
-
 ## 📫 Kontakt
 
 [![Email](https://img.shields.io/badge/Email-arkadiusz.bialecki.it%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz.bialecki.it@gmail.com)

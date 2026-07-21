@@ -20,19 +20,19 @@ Desktop Markdown editor with built-in Mermaid diagram support
 - **Features:** WYSIWYG editing, flowchart/sequence/class diagrams, PDF export
 - 📦 [Download](https://github.com/Vesperino/MerMarkEditor/releases)
 
+### [AI Usage Tracker](https://github.com/Vesperino/ai-usage-tracker) ⭐
+Windows desktop app for tracking Claude Code and Codex CLI usage limits
+- **Stack:** .NET 8, WPF, C#
+- **Features:** Combined usage view, automatic refresh, limit alerts, system tray, Polish/English interface
+- **Privacy:** Uses existing local CLI sessions and never stores authentication tokens
+- 📦 [Download](https://github.com/Vesperino/ai-usage-tracker/releases)
+
 ### [PortalForge](https://github.com/Vesperino/PortalForge) ⭐
 Intranet portal for organizations (~50k LOC, 90% MVP)
 - **Backend:** .NET 8, Clean Architecture, Background Services
 - **Frontend:** Nuxt 3 (AI-assisted)
 - Leave management, workflow requests, organizational structure
 - 🌐 [Live Demo](https://krablab.pl/portalforge/fe/auth/login)
-
-### [ArchitecturePlayground](https://github.com/Vesperino/ArchitecturePlayground) `🚧 Work in Progress`
-E-commerce platform demonstrating enterprise architecture patterns
-- **Backend:** .NET 9, MediatR, MassTransit, Event Sourcing
-- **Patterns:** Modular Monolith + Vertical Slice + DDD + CQRS
-- **Databases:** PostgreSQL, MongoDB, Redis, RabbitMQ
-- 🌐 [Live Demo](https://architecture-playground.vercel.app)
 
 ### [RecipesAIHelper](https://github.com/Vesperino/RecipesAIHelper)
 Recipe management with AI (OpenAI GPT + Google Gemini)

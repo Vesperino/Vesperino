@@ -78,13 +78,3 @@ Technical interview quizzes with web search verification
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-## 📜 Certifications
-
-🏆 [**10xDevs**](https://credsverse.com/credentials/2871b2cc-00eb-4f9f-8a3b-72f79a4e7269) (BRAVE Courses, 2025) | **Best Project**
-- Building AI-first full-stack MVP, CI/CD with AI agents, code review and refactoring with AI
-- Working with legacy code, GitHub Actions + LLM, application dockerization
-
-🎓 [**AI_devs 3 Reloaded**](https://credsverse.com/credentials/6cc1300d-16b7-495c-94d3-ddf6e74718d4) (BRAVE Courses, 2025)
-- Building AI agents, prompt engineering, multimodal processing (text/audio/image/video)
-- RAG systems, vector databases, LLM integration with applications and external services
-

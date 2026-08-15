@@ -87,8 +87,3 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 🎓 [**AI_devs 3 Reloaded**](https://credsverse.com/credentials/6cc1300d-16b7-495c-94d3-ddf6e74718d4) (BRAVE Courses, 2025)
 - Budowa agentów AI, prompt engineering, przetwarzanie multimodalne (tekst/audio/obraz/video)
 - Systemy RAG, bazy wektorowe, integracja LLM z aplikacjami i usługami zewnętrznymi
-
-## 📫 Kontakt
-
-[![Email](https://img.shields.io/badge/Email-arkadiusz.bialecki.it%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkadiusz.bialecki.it@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-b-1550a9189/)

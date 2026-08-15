@@ -77,13 +77,3 @@ Quizy techniczne do rozmów kwalifikacyjnych z weryfikacją przez web search
 ![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-## 📜 Certyfikaty
-
-🏆 [**10xDevs**](https://credsverse.com/credentials/2871b2cc-00eb-4f9f-8a3b-72f79a4e7269) (BRAVE Courses, 2025) | **Best Project**
-- Budowa AI-first full-stack MVP, CI/CD z agentami AI, code review i refactoring z AI
-- Praca z legacy code, GitHub Actions + LLM, dockeryzacja aplikacji
-
-🎓 [**AI_devs 3 Reloaded**](https://credsverse.com/credentials/6cc1300d-16b7-495c-94d3-ddf6e74718d4) (BRAVE Courses, 2025)
-- Budowa agentów AI, prompt engineering, przetwarzanie multimodalne (tekst/audio/obraz/video)
-- Systemy RAG, bazy wektorowe, integracja LLM z aplikacjami i usługami zewnętrznymi
